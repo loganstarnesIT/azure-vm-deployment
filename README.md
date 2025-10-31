@@ -78,6 +78,7 @@ When you have finished looking around the Networking tab, you can click "Review 
 
 It will take some time for the systems to be fully deployed. Afterwards, you can head over to the landing page of Azure and see the list of recent resources you've created.
 
-Congrats, you've officially deployed a Virtual Machine and a Virtual Network!
+<h2> Congrats, you've officially deployed a Virtual Machine and a Virtual Network! </h2>
 </p>
+<p>
 <br />
