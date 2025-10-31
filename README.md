@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure - Deploying a Virtual Machine and Virtual Network</h1>
-This tutorial outlines the general deployment of an Azure Virtual Machine & Virtual Network.<br />
+This tutorial outlines the general deployment of an Azure Virtual Machine & Virtual Network for general use.<br />
 
 
 <h2>Environments and Technologies Used</h2>
