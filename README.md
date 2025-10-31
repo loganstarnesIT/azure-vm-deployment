@@ -19,7 +19,6 @@ This tutorial outlines the general deployment of an Azure Virtual Machine & Virt
 
 - A Microsoft Azure account
 - Internet Connection
-- Remote Desktop Connection
 
 <h2>Deployment Steps</h2>
 Note: You can click images to enlarge them if they are too small to view
